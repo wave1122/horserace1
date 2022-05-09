@@ -7,6 +7,7 @@ This repository provides Python codes to perform all the calculations in the pap
 * [scikit-learn](https://scikit-learn.org/stable/)
 
 * [H2O](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html#)
+* [Facebook Prophet](https://facebook.github.io/prophet/)
 
   
 
