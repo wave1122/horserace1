@@ -1,6 +1,6 @@
 # About The Project
 
-This repository provides Python codes to perform all the calculations in the paper : `Comparing Out-of-Sample Performance of Machine Learning Methods to Forecast U.S. GDP Growth`
+This repository provides Python codes to perform all the calculations in the paper : [`Comparing Out-of-Sample Performance of Machine Learning Methods to Forecast U.S. GDP Growth`](https://www.dropbox.com/s/rp8amzla2uidd47/forecast_horse_race_v4.pdf?dl=0)
 
 # Pre-requisites
 
